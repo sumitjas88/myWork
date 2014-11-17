@@ -1,2 +1,2 @@
 new file for git
-
+I want some confilct in my file
